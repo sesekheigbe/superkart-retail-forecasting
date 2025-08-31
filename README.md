@@ -1,4 +1,4 @@
-# superkart-retail-forecasting
+# superkart-revenue-forecasting
 
 ## Executive Summary
 This project developed a machine learning pipeline to forecast store revenue for SuperKart.  
