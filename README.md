@@ -47,12 +47,10 @@ Improved demand forecasting enables smarter inventory and stock management decis
 ```mermaid
 flowchart LR
     A[Data Input] --> B[Feature Engineering]
-    B --> C[ML Model (RF, XGBoost)]
-    C --> D[Flask API (Backend)]
-    D --> E[Streamlit UI (Frontend)]
+    B --> C[ML Model: RF and XGBoost]
+    C --> D[Flask API Backend]
+    D --> E[Streamlit UI Frontend]
     E --> F[Hugging Face Spaces Deployment]
-
-
 
 ---
 
