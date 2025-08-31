@@ -51,7 +51,7 @@ flowchart LR
     C --> D[Flask API Backend]
     D --> E[Streamlit UI Frontend]
     E --> F[Hugging Face Spaces Deployment]
-
+```
 ---
 
 ## Project Structure
