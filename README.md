@@ -43,6 +43,7 @@ Improved demand forecasting enables smarter inventory and stock management decis
 ---
 
 ## Project Architecture
+
 ```mermaid
 flowchart LR
     A[Data Input] --> B[Feature Engineering]
@@ -50,6 +51,8 @@ flowchart LR
     C --> D[Flask API (Backend)]
     D --> E[Streamlit UI (Frontend)]
     E --> F[Hugging Face Spaces Deployment]
+
+
 
 ---
 
